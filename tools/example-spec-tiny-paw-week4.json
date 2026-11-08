@@ -1,0 +1,93 @@
+[
+ {
+  "file": "tp-22.png",
+  "category": "puppy",
+  "label": "Puppy Care",
+  "headline": "New Puppy: Your<br>First Week Plan",
+  "items": [
+   "Set up a quiet, safe space",
+   "Keep the same food as the breeder",
+   "Take it outside every 1 to 2 hours",
+   "Book a first vet visit",
+   "Keep visitors calm and short"
+  ]
+ },
+ {
+  "file": "tp-23.png",
+  "category": "puppy",
+  "label": "Puppy Care",
+  "headline": "Puppy Training<br>Tips That Work",
+  "items": [
+   "Keep sessions to 5 minutes",
+   "Reward the moment it happens",
+   "Use one cue word per behaviour",
+   "Stay consistent as a family",
+   "End on an easy win"
+  ]
+ },
+ {
+  "file": "tp-24.png",
+  "category": "kitten",
+  "label": "Kitten Care",
+  "headline": "New Kitten:<br>First Day at Home",
+  "items": [
+   "Start in one small quiet room",
+   "Show the litter box and water",
+   "Let it explore at its own pace",
+   "Keep the first meals simple",
+   "Handle gently and let it rest"
+  ]
+ },
+ {
+  "file": "tp-25.png",
+  "category": "safety",
+  "label": "Pet Safety",
+  "headline": "Christmas Pet<br>Safety Tips",
+  "items": [
+   "Keep chocolate and sweets away",
+   "Anchor the tree so it can't tip",
+   "Skip tinsel and loose ribbon",
+   "Cover cords and string lights",
+   "Give pets a quiet room to rest"
+  ]
+ },
+ {
+  "file": "tp-26.png",
+  "category": "puppy",
+  "label": "Puppy Care",
+  "headline": "Puppy Training<br>Schedule by Day",
+  "items": [
+   "Morning: potty, play, short lesson",
+   "Midday: nap in the crate",
+   "Afternoon: walk and sniff time",
+   "Evening: calm play and potty",
+   "Night: last potty, then bed"
+  ]
+ },
+ {
+  "file": "tp-27.png",
+  "category": "puppy",
+  "label": "Puppy Care",
+  "headline": "New Puppy Essentials<br>You Really Need",
+  "items": [
+   "Crate and a cosy bed",
+   "Collar, ID tag and leash",
+   "Puppy food and bowls",
+   "Chew toys for teething",
+   "Enzyme cleaner for accidents"
+  ]
+ },
+ {
+  "file": "tp-28.png",
+  "category": "kitten",
+  "label": "Kitten Care",
+  "headline": "New Kitten Checklist<br>Before Day One",
+  "items": [
+   "Litter box and unscented litter",
+   "Kitten food and shallow bowls",
+   "Scratching post and a cosy bed",
+   "Safe toys, no loose strings",
+   "Carrier for the vet trip"
+  ]
+ }
+]
