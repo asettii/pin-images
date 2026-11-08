@@ -1,0 +1,275 @@
+[
+ {
+  "file": "ex-table.png",
+  "format": "table",
+  "kicker": "Zodiac signs",
+  "headline": "The 12\nZodiac Signs",
+  "sub": "Dates, elements and symbols at a glance",
+  "colA": "SIGN",
+  "colB": "DATES \u00b7 ELEMENT \u00b7 SYMBOL",
+  "note": "Dates can shift by a day from year to year.",
+  "rows": [
+   [
+    "Aries",
+    "Mar 21 \u2014 Apr 19 \u00b7 Fire \u00b7 Ram"
+   ],
+   [
+    "Taurus",
+    "Apr 20 \u2014 May 20 \u00b7 Earth \u00b7 Bull"
+   ],
+   [
+    "Gemini",
+    "May 21 \u2014 Jun 20 \u00b7 Air \u00b7 Twins"
+   ],
+   [
+    "Cancer",
+    "Jun 21 \u2014 Jul 22 \u00b7 Water \u00b7 Crab"
+   ],
+   [
+    "Leo",
+    "Jul 23 \u2014 Aug 22 \u00b7 Fire \u00b7 Lion"
+   ],
+   [
+    "Virgo",
+    "Aug 23 \u2014 Sep 22 \u00b7 Earth \u00b7 Maiden"
+   ],
+   [
+    "Libra",
+    "Sep 23 \u2014 Oct 22 \u00b7 Air \u00b7 Scales"
+   ],
+   [
+    "Scorpio",
+    "Oct 23 \u2014 Nov 21 \u00b7 Water \u00b7 Scorpion"
+   ],
+   [
+    "Sagittarius",
+    "Nov 22 \u2014 Dec 21 \u00b7 Fire \u00b7 Archer"
+   ],
+   [
+    "Capricorn",
+    "Dec 22 \u2014 Jan 19 \u00b7 Earth \u00b7 Sea-Goat"
+   ],
+   [
+    "Aquarius",
+    "Jan 20 \u2014 Feb 18 \u00b7 Air \u00b7 Water Bearer"
+   ],
+   [
+    "Pisces",
+    "Feb 19 \u2014 Mar 20 \u00b7 Water \u00b7 Fish"
+   ]
+  ]
+ },
+ {
+  "file": "ex-glossary.png",
+  "format": "glossary",
+  "kicker": "Astrology glossary",
+  "headline": "Astrology\nTerms",
+  "sub": "20 words every beginner should know",
+  "terms": [
+   [
+    "Natal chart",
+    "the sky at your birth"
+   ],
+   [
+    "Ascendant",
+    "your rising sign"
+   ],
+   [
+    "Descendant",
+    "the 7th house cusp"
+   ],
+   [
+    "Midheaven",
+    "top of the chart, career"
+   ],
+   [
+    "IC",
+    "base of the chart, home"
+   ],
+   [
+    "Aspect",
+    "an angle between planets"
+   ],
+   [
+    "Conjunction",
+    "planets together"
+   ],
+   [
+    "Opposition",
+    "planets 180\u00b0 apart"
+   ],
+   [
+    "Trine",
+    "an easy 120\u00b0 flow"
+   ],
+   [
+    "Square",
+    "a tense 90\u00b0 push"
+   ],
+   [
+    "Sextile",
+    "a helpful 60\u00b0 link"
+   ],
+   [
+    "Retrograde",
+    "a planet seems to move back"
+   ],
+   [
+    "Transit",
+    "where planets are now"
+   ],
+   [
+    "Cusp",
+    "where a sign or house begins"
+   ],
+   [
+    "Element",
+    "fire, earth, air, water"
+   ],
+   [
+    "Modality",
+    "cardinal, fixed, mutable"
+   ],
+   [
+    "Ruler",
+    "the planet linked to a sign"
+   ],
+   [
+    "House",
+    "one of 12 life areas"
+   ],
+   [
+    "Stellium",
+    "3+ planets in one sign"
+   ],
+   [
+    "Return",
+    "a planet back at its birth spot"
+   ]
+  ]
+ },
+ {
+  "file": "ex-iconlist.png",
+  "format": "iconlist",
+  "kicker": "Moon phases meaning",
+  "headline": "Your Birth\nMoon Phase",
+  "sub": "What the phase you were born under says about you",
+  "rows": [
+   [
+    "New Moon",
+    "The starter: instinctive and bold",
+    "new"
+   ],
+   [
+    "Waxing Crescent",
+    "The builder: hopeful and determined",
+    "waxing-crescent"
+   ],
+   [
+    "First Quarter",
+    "The doer: decisive under pressure",
+    "first-quarter"
+   ],
+   [
+    "Waxing Gibbous",
+    "The perfecter: patient and curious",
+    "waxing-gibbous"
+   ],
+   [
+    "Full Moon",
+    "The connector: aware of others",
+    "full"
+   ],
+   [
+    "Waning Gibbous",
+    "The teacher: loves to share",
+    "waning-gibbous"
+   ],
+   [
+    "Last Quarter",
+    "The reformer: questions the old way",
+    "last-quarter"
+   ],
+   [
+    "Waning Crescent",
+    "The sage: intuitive and reflective",
+    "waning-crescent"
+   ]
+  ]
+ },
+ {
+  "file": "ex-spread.png",
+  "format": "spread",
+  "kicker": "Love tarot spreads",
+  "headline": "New Crush\nTarot Spread",
+  "sub": "4 cards for a new crush",
+  "cards": [
+   [
+    "I",
+    "Spark",
+    "What draws me to them?"
+   ],
+   [
+    "II",
+    "Them",
+    "How do they see me?"
+   ],
+   [
+    "III",
+    "Signal",
+    "What should I notice?"
+   ],
+   [
+    "IV",
+    "Step",
+    "What is my next move?"
+   ]
+  ],
+  "steps": [
+   "Think of your crush as you shuffle.",
+   "Lay four cards left to right.",
+   "Card IV is advice, not a promise."
+  ]
+ },
+ {
+  "file": "ex-card.png",
+  "format": "card",
+  "kicker": "Tarot card meanings",
+  "numeral": "II",
+  "arcana": "MAJOR ARCANA \u00b7 CARD II",
+  "name": "The High Priestess",
+  "sub": "Tarot card meaning",
+  "desc": "She sits between a black pillar and a white pillar, holding a scroll, with a crescent moon at her feet.",
+  "upright": [
+   "Intuition",
+   "Inner knowing",
+   "Mystery",
+   "Stillness"
+  ],
+  "reversed": [
+   "Ignoring your gut",
+   "Secrets",
+   "Disconnection",
+   "Overthinking"
+  ],
+  "rows": [
+   [
+    "In love",
+    "Unspoken feelings; let it unfold"
+   ],
+   [
+    "In career",
+    "Wait for more information"
+   ],
+   [
+    "As advice",
+    "Trust what you already know"
+   ],
+   [
+    "Yes or no",
+    "Not yet"
+   ]
+  ],
+  "note": "Rider-Waite-Smith deck \u00b7 Major Arcana in order, one card at a time"
+ }
+]
