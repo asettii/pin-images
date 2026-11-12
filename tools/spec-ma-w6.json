@@ -1,0 +1,1671 @@
+[
+ {
+  "file": "ma-w6-01.png",
+  "format": "table",
+  "kicker": "Zodiac signs",
+  "headline": "The 12\nZodiac Signs",
+  "sub": "Three keywords for every sign",
+  "colA": "SIGN",
+  "colB": "KEYWORDS",
+  "rows": [
+   [
+    "Aries",
+    "Bold \u00b7 Direct \u00b7 Energetic"
+   ],
+   [
+    "Taurus",
+    "Steady \u00b7 Sensual \u00b7 Loyal"
+   ],
+   [
+    "Gemini",
+    "Curious \u00b7 Witty \u00b7 Adaptable"
+   ],
+   [
+    "Cancer",
+    "Caring \u00b7 Intuitive \u00b7 Protective"
+   ],
+   [
+    "Leo",
+    "Warm \u00b7 Proud \u00b7 Creative"
+   ],
+   [
+    "Virgo",
+    "Careful \u00b7 Practical \u00b7 Helpful"
+   ],
+   [
+    "Libra",
+    "Fair \u00b7 Social \u00b7 Harmonious"
+   ],
+   [
+    "Scorpio",
+    "Intense \u00b7 Private \u00b7 Determined"
+   ],
+   [
+    "Sagittarius",
+    "Free \u00b7 Honest \u00b7 Adventurous"
+   ],
+   [
+    "Capricorn",
+    "Disciplined \u00b7 Patient \u00b7 Driven"
+   ],
+   [
+    "Aquarius",
+    "Original \u00b7 Independent \u00b7 Humane"
+   ],
+   [
+    "Pisces",
+    "Dreamy \u00b7 Empathic \u00b7 Artistic"
+   ]
+  ],
+  "note": "Keywords are common themes, not fixed rules."
+ },
+ {
+  "file": "ma-w6-02.png",
+  "format": "card",
+  "kicker": "Tarot card meanings",
+  "numeral": "X",
+  "arcana": "MAJOR ARCANA \u00b7 CARD X",
+  "name": "Wheel of Fortune",
+  "sub": "Tarot card meaning",
+  "desc": "A great wheel turns in the sky, ringed with symbols, with a sphinx on top and four winged figures.",
+  "upright": [
+   "Cycles",
+   "Change",
+   "Turning point",
+   "Opportunity"
+  ],
+  "reversed": [
+   "Resisting change",
+   "Setbacks",
+   "Bad timing",
+   "Feeling stuck"
+  ],
+  "rows": [
+   [
+    "In love",
+    "Cycles shift; stay open"
+   ],
+   [
+    "In career",
+    "A turning point or new chapter"
+   ],
+   [
+    "As advice",
+    "Flow with change, not against it"
+   ],
+   [
+    "Yes or no",
+    "Maybe"
+   ]
+  ],
+  "note": "Rider-Waite-Smith deck \u00b7 Major Arcana in order, one card at a time"
+ },
+ {
+  "file": "ma-w6-03.png",
+  "format": "iconlist",
+  "kicker": "Scorpio sign",
+  "headline": "Scorpio Sign\n6 Core Traits",
+  "sub": "Traits often linked to the scorpion",
+  "rows": [
+   [
+    "Intense",
+    "Feels deeply and goes all in",
+    ""
+   ],
+   [
+    "Private",
+    "Shares trust slowly and carefully",
+    ""
+   ],
+   [
+    "Determined",
+    "Keeps going when others quit",
+    ""
+   ],
+   [
+    "Perceptive",
+    "Notices what goes unsaid",
+    ""
+   ],
+   [
+    "Loyal",
+    "Protective of the people they pick",
+    ""
+   ],
+   [
+    "Transformative",
+    "Often reinvents itself",
+    ""
+   ]
+  ]
+ },
+ {
+  "file": "ma-w6-04.png",
+  "format": "spread",
+  "kicker": "Tarot spread",
+  "headline": "Mind Body Spirit\nTarot Spread",
+  "sub": "3 cards for a whole-self check-in",
+  "cards": [
+   [
+    "I",
+    "Mind",
+    "What am I thinking?"
+   ],
+   [
+    "II",
+    "Body",
+    "What does it need?"
+   ],
+   [
+    "III",
+    "Spirit",
+    "What feels meaningful?"
+   ]
+  ],
+  "steps": [
+   "Shuffle while you think of your week.",
+   "Lay three cards left to right.",
+   "Journal where the three cards agree."
+  ]
+ },
+ {
+  "file": "ma-w6-05.png",
+  "format": "glossary",
+  "kicker": "Rider-Waite tarot",
+  "headline": "Major Arcana\nKeywords",
+  "sub": "Cards 0 to XIX in the Rider-Waite deck",
+  "terms": [
+   [
+    "Fool",
+    "new beginnings, a leap"
+   ],
+   [
+    "Magician",
+    "will and skill"
+   ],
+   [
+    "High Priestess",
+    "intuition, the unseen"
+   ],
+   [
+    "Empress",
+    "nurture and abundance"
+   ],
+   [
+    "Emperor",
+    "structure and order"
+   ],
+   [
+    "Hierophant",
+    "tradition, learning"
+   ],
+   [
+    "Lovers",
+    "choice and union"
+   ],
+   [
+    "Chariot",
+    "drive and direction"
+   ],
+   [
+    "Strength",
+    "gentle courage"
+   ],
+   [
+    "Hermit",
+    "solitude, inner light"
+   ],
+   [
+    "Wheel",
+    "cycles and change"
+   ],
+   [
+    "Justice",
+    "fairness and truth"
+   ],
+   [
+    "Hanged Man",
+    "pause, a new view"
+   ],
+   [
+    "Death",
+    "endings and renewal"
+   ],
+   [
+    "Temperance",
+    "balance and blending"
+   ],
+   [
+    "Devil",
+    "attachment, shadow"
+   ],
+   [
+    "Tower",
+    "sudden change, truth"
+   ],
+   [
+    "Star",
+    "hope and calm"
+   ],
+   [
+    "Moon",
+    "dreams, uncertainty"
+   ],
+   [
+    "Sun",
+    "joy and clarity"
+   ]
+  ]
+ },
+ {
+  "file": "ma-w6-06.png",
+  "format": "iconlist",
+  "kicker": "Scorpio aesthetic",
+  "headline": "Scorpio\nAesthetic",
+  "sub": "Moods, colors and symbols for the sign",
+  "rows": [
+   [
+    "Deep Burgundy",
+    "Dark red, wine and garnet tones",
+    ""
+   ],
+   [
+    "Midnight Black",
+    "Velvet, shadow and quiet drama",
+    ""
+   ],
+   [
+    "The Scorpion",
+    "A symbol of guarded strength",
+    ""
+   ],
+   [
+    "Water Depths",
+    "Moody oceans, rain and dark lakes",
+    ""
+   ],
+   [
+    "Candlelight",
+    "Low flame, wax and soft glow",
+    ""
+   ],
+   [
+    "Hidden Details",
+    "Mystery, keys and old ink",
+    ""
+   ],
+   [
+    "Pluto Energy",
+    "Transformation and rebirth",
+    ""
+   ]
+  ]
+ },
+ {
+  "file": "ma-w6-07.png",
+  "format": "table",
+  "kicker": "Astrology houses",
+  "headline": "Astrology\nHouses",
+  "sub": "Natural sign, ruler and theme",
+  "colA": "HOUSE",
+  "colB": "SIGN \u00b7 RULER \u00b7 THEME",
+  "rows": [
+   [
+    "1st house",
+    "Aries \u00b7 Mars \u00b7 identity"
+   ],
+   [
+    "2nd house",
+    "Taurus \u00b7 Venus \u00b7 money"
+   ],
+   [
+    "3rd house",
+    "Gemini \u00b7 Mercury \u00b7 ideas"
+   ],
+   [
+    "4th house",
+    "Cancer \u00b7 Moon \u00b7 home"
+   ],
+   [
+    "5th house",
+    "Leo \u00b7 Sun \u00b7 joy"
+   ],
+   [
+    "6th house",
+    "Virgo \u00b7 Mercury \u00b7 routine"
+   ],
+   [
+    "7th house",
+    "Libra \u00b7 Venus \u00b7 partners"
+   ],
+   [
+    "8th house",
+    "Scorpio \u00b7 Pluto \u00b7 intimacy"
+   ],
+   [
+    "9th house",
+    "Sagittarius \u00b7 Jupiter \u00b7 beliefs"
+   ],
+   [
+    "10th house",
+    "Capricorn \u00b7 Saturn \u00b7 career"
+   ],
+   [
+    "11th house",
+    "Aquarius \u00b7 Uranus \u00b7 community"
+   ],
+   [
+    "12th house",
+    "Pisces \u00b7 Neptune \u00b7 the unseen"
+   ]
+  ],
+  "note": "Natural zodiac order with modern rulers shown."
+ },
+ {
+  "file": "ma-w6-08.png",
+  "format": "card",
+  "kicker": "Tarot card meanings",
+  "numeral": "XI",
+  "arcana": "MAJOR ARCANA \u00b7 CARD XI",
+  "name": "Justice",
+  "sub": "Tarot card meaning",
+  "desc": "A crowned figure sits between two pillars, holding a raised sword in one hand and scales in the other.",
+  "upright": [
+   "Fairness",
+   "Truth",
+   "Accountability",
+   "Clarity"
+  ],
+  "reversed": [
+   "Bias",
+   "Dishonesty",
+   "Avoiding blame",
+   "Imbalance"
+  ],
+  "rows": [
+   [
+    "In love",
+    "Honesty and fair give and take"
+   ],
+   [
+    "In career",
+    "Clear, fair agreements"
+   ],
+   [
+    "As advice",
+    "Weigh the facts before deciding"
+   ],
+   [
+    "Yes or no",
+    "Yes, if it is fair"
+   ]
+  ],
+  "note": "Rider-Waite-Smith deck \u00b7 Major Arcana in order, one card at a time"
+ },
+ {
+  "file": "ma-w6-09.png",
+  "format": "spread",
+  "kicker": "Full moon tarot",
+  "headline": "Full Moon\nTarot Spread",
+  "sub": "4 cards to release and reset",
+  "cards": [
+   [
+    "I",
+    "Notice",
+    "What came to light?"
+   ],
+   [
+    "II",
+    "Release",
+    "What can I let go?"
+   ],
+   [
+    "III",
+    "Keep",
+    "What do I want to keep?"
+   ],
+   [
+    "IV",
+    "Intend",
+    "What do I tend next?"
+   ]
+  ],
+  "steps": [
+   "Light a candle and shuffle slowly.",
+   "Lay four cards left to right.",
+   "Write one release and one intention."
+  ]
+ },
+ {
+  "file": "ma-w6-10.png",
+  "format": "iconlist",
+  "kicker": "Moon phases",
+  "headline": "Moon Phases\nWhat to Do",
+  "sub": "A gentle activity for each of the 8 phases",
+  "rows": [
+   [
+    "New Moon",
+    "Set a quiet intention",
+    "new"
+   ],
+   [
+    "Waxing Crescent",
+    "Take one small first step",
+    "waxing-crescent"
+   ],
+   [
+    "First Quarter",
+    "Face a challenge and decide",
+    "first-quarter"
+   ],
+   [
+    "Waxing Gibbous",
+    "Refine, edit and be patient",
+    "waxing-gibbous"
+   ],
+   [
+    "Full Moon",
+    "Celebrate and reflect",
+    "full"
+   ],
+   [
+    "Waning Gibbous",
+    "Share what you have learned",
+    "waning-gibbous"
+   ],
+   [
+    "Last Quarter",
+    "Release a habit or belief",
+    "last-quarter"
+   ],
+   [
+    "Waning Crescent",
+    "Rest, reset and recharge",
+    "waning-crescent"
+   ]
+  ]
+ },
+ {
+  "file": "ma-w6-11.png",
+  "format": "table",
+  "kicker": "Birth chart astrology",
+  "headline": "Birth Chart\nBasics",
+  "sub": "What each key placement shows",
+  "colA": "PLACEMENT",
+  "colB": "WHAT IT SHOWS",
+  "rows": [
+   [
+    "Sun",
+    "Core identity and purpose"
+   ],
+   [
+    "Moon",
+    "Emotions and inner needs"
+   ],
+   [
+    "Rising",
+    "First impression and approach"
+   ],
+   [
+    "Mercury",
+    "How you think and speak"
+   ],
+   [
+    "Venus",
+    "Love, values and taste"
+   ],
+   [
+    "Mars",
+    "Drive and how you act"
+   ],
+   [
+    "Jupiter",
+    "Growth and optimism"
+   ],
+   [
+    "Saturn",
+    "Discipline and lessons"
+   ]
+  ],
+  "note": "A birth chart is a tool for reflection."
+ },
+ {
+  "file": "ma-w6-12.png",
+  "format": "iconlist",
+  "kicker": "Astrology journal",
+  "headline": "Astrology\nJournal Ideas",
+  "sub": "7 prompts to try with your chart",
+  "rows": [
+   [
+    "Sun sign",
+    "Where do I feel most like myself?",
+    ""
+   ],
+   [
+    "Moon sign",
+    "What helps me feel safe?",
+    ""
+   ],
+   [
+    "Rising sign",
+    "How do I show up with new people?",
+    ""
+   ],
+   [
+    "Venus",
+    "What do I value in love?",
+    ""
+   ],
+   [
+    "Mars",
+    "How do I handle conflict?",
+    ""
+   ],
+   [
+    "Saturn",
+    "Which lesson keeps returning?",
+    ""
+   ],
+   [
+    "Season",
+    "What does this season ask of me?",
+    ""
+   ]
+  ]
+ },
+ {
+  "file": "ma-w6-13.png",
+  "format": "spread",
+  "kicker": "Career tarot",
+  "headline": "Career\nTarot Spread",
+  "sub": "4 cards for work and purpose",
+  "cards": [
+   [
+    "I",
+    "Now",
+    "Where am I at work?"
+   ],
+   [
+    "II",
+    "Strength",
+    "What is my strength?"
+   ],
+   [
+    "III",
+    "Block",
+    "What holds me back?"
+   ],
+   [
+    "IV",
+    "Next",
+    "What is my next step?"
+   ]
+  ],
+  "steps": [
+   "Name one work question first.",
+   "Lay four cards left to right.",
+   "Turn card IV into one small action."
+  ]
+ },
+ {
+  "file": "ma-w6-14.png",
+  "format": "card",
+  "kicker": "Tarot card meanings",
+  "numeral": "XII",
+  "arcana": "MAJOR ARCANA \u00b7 CARD XII",
+  "name": "The Hanged Man",
+  "sub": "Tarot card meaning",
+  "desc": "A man hangs upside down from a living tree by one foot, with a calm face and a halo of light.",
+  "upright": [
+   "Pause",
+   "Surrender",
+   "New perspective",
+   "Letting go"
+  ],
+  "reversed": [
+   "Stalling",
+   "Resistance",
+   "Indecision",
+   "Needless sacrifice"
+  ],
+  "rows": [
+   [
+    "In love",
+    "Pause and see it another way"
+   ],
+   [
+    "In career",
+    "A wait that offers perspective"
+   ],
+   [
+    "As advice",
+    "Let go of control for now"
+   ],
+   [
+    "Yes or no",
+    "Not yet"
+   ]
+  ],
+  "note": "Rider-Waite-Smith deck \u00b7 Major Arcana in order, one card at a time"
+ },
+ {
+  "file": "ma-w6-15.png",
+  "format": "glossary",
+  "kicker": "Moon calendar",
+  "headline": "Moon Calendar\nTerms",
+  "sub": "16 words for tracking the lunar month",
+  "terms": [
+   [
+    "Lunation",
+    "one full cycle of phases"
+   ],
+   [
+    "New moon",
+    "the dark moon, a fresh start"
+   ],
+   [
+    "Waxing",
+    "growing in light"
+   ],
+   [
+    "Waning",
+    "shrinking in light"
+   ],
+   [
+    "Crescent",
+    "a thin sliver of light"
+   ],
+   [
+    "Gibbous",
+    "more than half lit"
+   ],
+   [
+    "Quarter",
+    "half the moon is lit"
+   ],
+   [
+    "Full moon",
+    "the whole face is lit"
+   ],
+   [
+    "Illumination",
+    "the lit share of the moon"
+   ],
+   [
+    "Supermoon",
+    "a moon close to Earth"
+   ],
+   [
+    "Blue moon",
+    "a rare extra full moon"
+   ],
+   [
+    "Eclipse",
+    "Earth, Sun and Moon align"
+   ],
+   [
+    "Perigee",
+    "the moon's closest point"
+   ],
+   [
+    "Apogee",
+    "the moon's farthest point"
+   ],
+   [
+    "Lunar month",
+    "about 29.5 days"
+   ],
+   [
+    "Moonrise",
+    "when the moon appears"
+   ]
+  ]
+ },
+ {
+  "file": "ma-w6-16.png",
+  "format": "iconlist",
+  "kicker": "Birth chart steps",
+  "headline": "Read Your\nBirth Chart",
+  "sub": "6 steps for beginners",
+  "rows": [
+   [
+    "1. Find your Sun",
+    "The sign of your core identity",
+    ""
+   ],
+   [
+    "2. Find your Moon",
+    "Your emotional needs and habits",
+    ""
+   ],
+   [
+    "3. Find your Rising",
+    "Needs an accurate birth time",
+    ""
+   ],
+   [
+    "4. Read the houses",
+    "See which life area each sits in",
+    ""
+   ],
+   [
+    "5. Check the planets",
+    "Note sign and house for each one",
+    ""
+   ],
+   [
+    "6. Look at aspects",
+    "Spot links between the planets",
+    ""
+   ]
+  ]
+ },
+ {
+  "file": "ma-w6-17.png",
+  "format": "card",
+  "kicker": "Tarot card meanings",
+  "numeral": "XIII",
+  "arcana": "MAJOR ARCANA \u00b7 CARD XIII",
+  "name": "Death",
+  "sub": "Tarot card meaning",
+  "desc": "A skeleton in black armor rides a white horse while a sun rises between two towers.",
+  "upright": [
+   "Endings",
+   "Transformation",
+   "Release",
+   "New chapter"
+  ],
+  "reversed": [
+   "Resisting change",
+   "Holding on",
+   "Stagnation",
+   "Fear of endings"
+  ],
+  "rows": [
+   [
+    "In love",
+    "An old pattern ends; room to grow"
+   ],
+   [
+    "In career",
+    "A chapter closes, another opens"
+   ],
+   [
+    "As advice",
+    "Let go of what has run its course"
+   ],
+   [
+    "Yes or no",
+    "Yes, to change"
+   ]
+  ],
+  "note": "Rider-Waite-Smith deck \u00b7 Major Arcana in order, one card at a time"
+ },
+ {
+  "file": "ma-w6-18.png",
+  "format": "table",
+  "kicker": "Opposite signs",
+  "headline": "Opposite\nZodiac Signs",
+  "sub": "Every sign and its opposite",
+  "colA": "SIGN",
+  "colB": "OPPOSITE \u00b7 THEME",
+  "rows": [
+   [
+    "Aries",
+    "Libra \u00b7 self and others"
+   ],
+   [
+    "Taurus",
+    "Scorpio \u00b7 own and shared"
+   ],
+   [
+    "Gemini",
+    "Sagittarius \u00b7 facts and beliefs"
+   ],
+   [
+    "Cancer",
+    "Capricorn \u00b7 home and career"
+   ],
+   [
+    "Leo",
+    "Aquarius \u00b7 me and we"
+   ],
+   [
+    "Virgo",
+    "Pisces \u00b7 detail and dream"
+   ],
+   [
+    "Libra",
+    "Aries \u00b7 others and self"
+   ],
+   [
+    "Scorpio",
+    "Taurus \u00b7 shared and own"
+   ],
+   [
+    "Sagittarius",
+    "Gemini \u00b7 beliefs and facts"
+   ],
+   [
+    "Capricorn",
+    "Cancer \u00b7 career and home"
+   ],
+   [
+    "Aquarius",
+    "Leo \u00b7 we and me"
+   ],
+   [
+    "Pisces",
+    "Virgo \u00b7 dream and detail"
+   ]
+  ]
+ },
+ {
+  "file": "ma-w6-19.png",
+  "format": "spread",
+  "kicker": "Self love tarot",
+  "headline": "Self Love\nTarot Spread",
+  "sub": "5 cards for kindness toward yourself",
+  "cards": [
+   [
+    "I",
+    "Worth",
+    "What is my worth?"
+   ],
+   [
+    "II",
+    "Care",
+    "What do I need now?"
+   ],
+   [
+    "III",
+    "Voice",
+    "How do I speak to me?"
+   ],
+   [
+    "IV",
+    "Block",
+    "What gets in the way?"
+   ],
+   [
+    "V",
+    "Gift",
+    "What can I celebrate?"
+   ]
+  ],
+  "steps": [
+   "Take three slow breaths first.",
+   "Lay five cards in a row.",
+   "Write one kind sentence per card."
+  ]
+ },
+ {
+  "file": "ma-w6-20.png",
+  "format": "glossary",
+  "kicker": "Zodiac signs meaning",
+  "headline": "Zodiac Signs\nMeaning",
+  "sub": "16 terms behind every sign",
+  "terms": [
+   [
+    "Sun sign",
+    "your core identity"
+   ],
+   [
+    "Moon sign",
+    "your inner world"
+   ],
+   [
+    "Rising sign",
+    "your first impression"
+   ],
+   [
+    "Element",
+    "fire, earth, air, water"
+   ],
+   [
+    "Modality",
+    "cardinal, fixed, mutable"
+   ],
+   [
+    "Cardinal",
+    "starts things"
+   ],
+   [
+    "Fixed",
+    "sustains things"
+   ],
+   [
+    "Mutable",
+    "adapts and shifts"
+   ],
+   [
+    "Ruler",
+    "the planet tied to a sign"
+   ],
+   [
+    "Decan",
+    "a 10-degree slice of a sign"
+   ],
+   [
+    "Cusp",
+    "the edge between two signs"
+   ],
+   [
+    "Domicile",
+    "a planet in its home sign"
+   ],
+   [
+    "Detriment",
+    "a planet opposite its home"
+   ],
+   [
+    "Exaltation",
+    "a planet in a strong sign"
+   ],
+   [
+    "Fall",
+    "a planet opposite exaltation"
+   ],
+   [
+    "Polarity",
+    "active or receptive"
+   ]
+  ]
+ },
+ {
+  "file": "ma-w6-21.png",
+  "format": "table",
+  "kicker": "Sagittarius constellation",
+  "headline": "Sagittarius\nConstellation",
+  "sub": "Facts about the archer in the sky",
+  "colA": "FACT",
+  "colB": "DETAIL",
+  "rows": [
+   [
+    "Latin name",
+    "Sagittarius, the archer"
+   ],
+   [
+    "Short form",
+    "Sgr"
+   ],
+   [
+    "Brightest star",
+    "Kaus Australis"
+   ],
+   [
+    "Pattern",
+    "The Teapot asterism"
+   ],
+   [
+    "Sky position",
+    "Low in the southern sky"
+   ],
+   [
+    "Milky Way",
+    "Points toward the galaxy center"
+   ],
+   [
+    "Zodiac sign",
+    "Astrology uses tropical sign dates"
+   ]
+  ],
+  "note": "Astrology signs and constellations are not the same."
+ },
+ {
+  "file": "ma-w6-22.png",
+  "format": "card",
+  "kicker": "Tarot card meanings",
+  "numeral": "XIV",
+  "arcana": "MAJOR ARCANA \u00b7 CARD XIV",
+  "name": "Temperance",
+  "sub": "Tarot card meaning",
+  "desc": "An angel with wings pours water between two cups, with one foot on land and one in a pool.",
+  "upright": [
+   "Balance",
+   "Patience",
+   "Moderation",
+   "Harmony"
+  ],
+  "reversed": [
+   "Excess",
+   "Imbalance",
+   "Impatience",
+   "Extremes"
+  ],
+  "rows": [
+   [
+    "In love",
+    "Patience and a steady blend"
+   ],
+   [
+    "In career",
+    "Steady progress, no rush"
+   ],
+   [
+    "As advice",
+    "Find the middle path"
+   ],
+   [
+    "Yes or no",
+    "Yes, slowly"
+   ]
+  ],
+  "note": "Rider-Waite-Smith deck \u00b7 Major Arcana in order, one card at a time"
+ },
+ {
+  "file": "ma-w6-23.png",
+  "format": "iconlist",
+  "kicker": "Sagittarius aesthetic",
+  "headline": "Sagittarius\nAesthetic",
+  "sub": "Moods, colors and symbols for the archer",
+  "rows": [
+   [
+    "Royal Purple",
+    "A regal, expansive color",
+    ""
+   ],
+   [
+    "Open Roads",
+    "Maps, journeys and wide horizons",
+    ""
+   ],
+   [
+    "The Archer",
+    "An arrow aimed high and far",
+    ""
+   ],
+   [
+    "Campfire Glow",
+    "Warm embers under a night sky",
+    ""
+   ],
+   [
+    "Worn Passport",
+    "Stamps, notes and souvenirs",
+    ""
+   ],
+   [
+    "Bold Gold",
+    "Sun-bright and optimistic",
+    ""
+   ],
+   [
+    "Star Maps",
+    "Constellations and far-off places",
+    ""
+   ]
+  ]
+ },
+ {
+  "file": "ma-w6-24.png",
+  "format": "spread",
+  "kicker": "Shadow work tarot",
+  "headline": "Shadow Work\nTarot Spread",
+  "sub": "5 cards for gentle self-reflection",
+  "cards": [
+   [
+    "I",
+    "Pattern",
+    "What keeps repeating?"
+   ],
+   [
+    "II",
+    "Root",
+    "Where might it begin?"
+   ],
+   [
+    "III",
+    "Fear",
+    "What am I avoiding?"
+   ],
+   [
+    "IV",
+    "Gift",
+    "What strength is here?"
+   ],
+   [
+    "V",
+    "Step",
+    "What is one kind step?"
+   ]
+  ],
+  "steps": [
+   "Choose a calm, private moment.",
+   "Lay five cards in a row.",
+   "Stop if it feels heavy; be gentle."
+  ]
+ },
+ {
+  "file": "ma-w6-25.png",
+  "format": "glossary",
+  "kicker": "Full moon ritual",
+  "headline": "Full Moon\nRitual Tools",
+  "sub": "16 simple items for manifestation",
+  "terms": [
+   [
+    "Candle",
+    "a calm point of focus"
+   ],
+   [
+    "Notebook",
+    "for intentions and notes"
+   ],
+   [
+    "Pen",
+    "write what you want"
+   ],
+   [
+    "Paper",
+    "a page to release"
+   ],
+   [
+    "Tea",
+    "a warm, calm sip"
+   ],
+   [
+    "Water",
+    "a glass to sip with intent"
+   ],
+   [
+    "Window",
+    "let the moonlight in"
+   ],
+   [
+    "Playlist",
+    "soft music to settle"
+   ],
+   [
+    "Blanket",
+    "stay cozy and still"
+   ],
+   [
+    "Incense",
+    "a gentle scent, if you like"
+   ],
+   [
+    "Crystal",
+    "an optional focus object"
+   ],
+   [
+    "Tarot deck",
+    "one card for guidance"
+   ],
+   [
+    "Timer",
+    "keep it to ten minutes"
+   ],
+   [
+    "Flowers",
+    "a fresh touch of nature"
+   ],
+   [
+    "Breath",
+    "three slow breaths to begin"
+   ],
+   [
+    "Gratitude",
+    "end with thanks"
+   ]
+  ]
+ },
+ {
+  "file": "ma-w6-26.png",
+  "format": "table",
+  "kicker": "Astrology aspects",
+  "headline": "Astrology\nAspects",
+  "sub": "The angles between planets",
+  "colA": "ASPECT",
+  "colB": "ANGLE \u00b7 FEELING",
+  "rows": [
+   [
+    "Conjunction",
+    "0\u00b0 \u00b7 planets blend together"
+   ],
+   [
+    "Sextile",
+    "60\u00b0 \u00b7 an easy opportunity"
+   ],
+   [
+    "Square",
+    "90\u00b0 \u00b7 friction that drives growth"
+   ],
+   [
+    "Trine",
+    "120\u00b0 \u00b7 natural flow and ease"
+   ],
+   [
+    "Quincunx",
+    "150\u00b0 \u00b7 an awkward adjustment"
+   ],
+   [
+    "Opposition",
+    "180\u00b0 \u00b7 tension and balance"
+   ]
+  ],
+  "note": "The allowed margin (orb) varies by astrologer."
+ },
+ {
+  "file": "ma-w6-27.png",
+  "format": "iconlist",
+  "kicker": "Astrology aesthetic",
+  "headline": "Astrology\nAesthetic",
+  "sub": "7 celestial moods to save",
+  "rows": [
+   [
+    "Midnight Navy",
+    "Deep sky blues and soft shadows",
+    ""
+   ],
+   [
+    "Gold Foil",
+    "Stars, linework and warm metallics",
+    ""
+   ],
+   [
+    "Moon Motifs",
+    "Crescents, full moons and phases",
+    ""
+   ],
+   [
+    "Star Charts",
+    "Constellation lines and chart wheels",
+    ""
+   ],
+   [
+    "Tarot Cards",
+    "Ornate borders and symbolism",
+    ""
+   ],
+   [
+    "Candle Altar",
+    "Wax, incense and quiet corners",
+    ""
+   ],
+   [
+    "Celestial Pages",
+    "Journals, ink and pressed flowers",
+    ""
+   ]
+  ]
+ },
+ {
+  "file": "ma-w6-28.png",
+  "format": "card",
+  "kicker": "Tarot card meanings",
+  "numeral": "XV",
+  "arcana": "MAJOR ARCANA \u00b7 CARD XV",
+  "name": "The Devil",
+  "sub": "Tarot card meaning",
+  "desc": "A horned figure sits above two chained people, but the chains around their necks hang loose.",
+  "upright": [
+   "Attachment",
+   "Shadow",
+   "Temptation",
+   "Habits"
+  ],
+  "reversed": [
+   "Breaking free",
+   "Release",
+   "Awareness",
+   "Reclaiming power"
+  ],
+  "rows": [
+   [
+    "In love",
+    "Notice patterns that bind you"
+   ],
+   [
+    "In career",
+    "Look at what keeps you stuck"
+   ],
+   [
+    "As advice",
+    "Name the habit, then choose"
+   ],
+   [
+    "Yes or no",
+    "Be careful"
+   ]
+  ],
+  "note": "Rider-Waite-Smith deck \u00b7 Major Arcana in order, one card at a time"
+ },
+ {
+  "file": "ma-w6-29.png",
+  "format": "spread",
+  "kicker": "Sagittarius tarot",
+  "headline": "Sagittarius\nTarot Spread",
+  "sub": "4 cards to welcome the archer's season",
+  "cards": [
+   [
+    "I",
+    "Horizon",
+    "What am I aiming for?"
+   ],
+   [
+    "II",
+    "Courage",
+    "Where can I be bold?"
+   ],
+   [
+    "III",
+    "Truth",
+    "What do I need to say?"
+   ],
+   [
+    "IV",
+    "Journey",
+    "What is my next step?"
+   ]
+  ],
+  "steps": [
+   "Set a bold but kind intention.",
+   "Lay four cards left to right.",
+   "Pick one adventure for this week."
+  ]
+ },
+ {
+  "file": "ma-w6-30.png",
+  "format": "glossary",
+  "kicker": "Tarot cards",
+  "headline": "Tarot Cards\nGlossary",
+  "sub": "16 terms for suits and court cards",
+  "terms": [
+   [
+    "Major Arcana",
+    "22 cards of life themes"
+   ],
+   [
+    "Minor Arcana",
+    "56 cards of daily life"
+   ],
+   [
+    "Suit",
+    "one of four card groups"
+   ],
+   [
+    "Wands",
+    "fire: drive and passion"
+   ],
+   [
+    "Cups",
+    "water: feelings, bonds"
+   ],
+   [
+    "Swords",
+    "air: thoughts, truth"
+   ],
+   [
+    "Pentacles",
+    "earth: work, body, home"
+   ],
+   [
+    "Ace",
+    "a seed of something new"
+   ],
+   [
+    "Court cards",
+    "Page, Knight, Queen, King"
+   ],
+   [
+    "Page",
+    "a student, a message"
+   ],
+   [
+    "Knight",
+    "action in motion"
+   ],
+   [
+    "Queen",
+    "inner mastery, care"
+   ],
+   [
+    "King",
+    "leadership, authority"
+   ],
+   [
+    "Numbered",
+    "cards two to ten"
+   ],
+   [
+    "Upright",
+    "the card as drawn"
+   ],
+   [
+    "Reversed",
+    "the card upside down"
+   ]
+  ]
+ },
+ {
+  "file": "ma-w6-31.png",
+  "format": "table",
+  "kicker": "Minor Arcana",
+  "headline": "Minor Arcana\nNumbers",
+  "sub": "What each number often means",
+  "colA": "NUMBER",
+  "colB": "THEME",
+  "rows": [
+   [
+    "Ace",
+    "A new seed or spark"
+   ],
+   [
+    "Two",
+    "Balance and choice"
+   ],
+   [
+    "Three",
+    "Growth and teamwork"
+   ],
+   [
+    "Four",
+    "Stability and rest"
+   ],
+   [
+    "Five",
+    "Conflict and challenge"
+   ],
+   [
+    "Six",
+    "Harmony and moving on"
+   ],
+   [
+    "Seven",
+    "Reflection and testing"
+   ],
+   [
+    "Eight",
+    "Movement and effort"
+   ],
+   [
+    "Nine",
+    "Near completion"
+   ],
+   [
+    "Ten",
+    "A cycle at its peak"
+   ]
+  ],
+  "note": "Meanings shift with each suit."
+ },
+ {
+  "file": "ma-w6-32.png",
+  "format": "card",
+  "kicker": "Tarot card meanings",
+  "numeral": "XVI",
+  "arcana": "MAJOR ARCANA \u00b7 CARD XVI",
+  "name": "The Tower",
+  "sub": "Tarot card meaning",
+  "desc": "A tall tower is struck by lightning as flames burst out and two figures fall from the top.",
+  "upright": [
+   "Sudden change",
+   "Truth revealed",
+   "Upheaval",
+   "Awakening"
+  ],
+  "reversed": [
+   "Avoiding change",
+   "Fear of ruin",
+   "Slow collapse",
+   "Delayed change"
+  ],
+  "rows": [
+   [
+    "In love",
+    "A false front falls; truth shows"
+   ],
+   [
+    "In career",
+    "A shake-up that clears space"
+   ],
+   [
+    "As advice",
+    "Let what is shaky fall away"
+   ],
+   [
+    "Yes or no",
+    "Not as planned"
+   ]
+  ],
+  "note": "Rider-Waite-Smith deck \u00b7 Major Arcana in order, one card at a time"
+ },
+ {
+  "file": "ma-w6-33.png",
+  "format": "table",
+  "kicker": "Moon sign",
+  "headline": "Moon Sign\nMeanings",
+  "sub": "How the Moon feels in each sign",
+  "colA": "MOON IN",
+  "colB": "EMOTIONAL STYLE",
+  "rows": [
+   [
+    "Aries",
+    "Quick, direct, passionate"
+   ],
+   [
+    "Taurus",
+    "Calm, steady, comfort-seeking"
+   ],
+   [
+    "Gemini",
+    "Curious, talkative, restless"
+   ],
+   [
+    "Cancer",
+    "Nurturing, sensitive, protective"
+   ],
+   [
+    "Leo",
+    "Warm, expressive, proud"
+   ],
+   [
+    "Virgo",
+    "Careful, practical, analytical"
+   ],
+   [
+    "Libra",
+    "Peace-seeking, charming, fair"
+   ],
+   [
+    "Scorpio",
+    "Deep, private, intense"
+   ],
+   [
+    "Sagittarius",
+    "Optimistic, free, honest"
+   ],
+   [
+    "Capricorn",
+    "Reserved, dutiful, resilient"
+   ],
+   [
+    "Aquarius",
+    "Detached, original, humane"
+   ],
+   [
+    "Pisces",
+    "Dreamy, empathic, soft"
+   ]
+  ],
+  "note": "Find your Moon sign with a free birth chart."
+ },
+ {
+  "file": "ma-w6-34.png",
+  "format": "spread",
+  "kicker": "Year-end tarot",
+  "headline": "Year-End\nTarot Spread",
+  "sub": "5 cards to look back and look ahead",
+  "cards": [
+   [
+    "I",
+    "Gift",
+    "What did this year give?"
+   ],
+   [
+    "II",
+    "Lesson",
+    "What did I learn?"
+   ],
+   [
+    "III",
+    "Release",
+    "What can I let go?"
+   ],
+   [
+    "IV",
+    "Seed",
+    "What do I plant next?"
+   ],
+   [
+    "V",
+    "Word",
+    "What is my word?"
+   ]
+  ],
+  "steps": [
+   "Shuffle while you review the year.",
+   "Lay five cards left to right.",
+   "Choose one word from the cards."
+  ]
+ },
+ {
+  "file": "ma-w6-35.png",
+  "format": "iconlist",
+  "kicker": "Sagittarius sign",
+  "headline": "Sagittarius Sign\nSix Traits",
+  "sub": "Traits often linked to the archer",
+  "rows": [
+   [
+    "Adventurous",
+    "Craves new places and ideas",
+    ""
+   ],
+   [
+    "Honest",
+    "Says it plainly, sometimes bluntly",
+    ""
+   ],
+   [
+    "Optimistic",
+    "Looks for the bright side",
+    ""
+   ],
+   [
+    "Independent",
+    "Needs room to roam",
+    ""
+   ],
+   [
+    "Curious",
+    "Always learning something new",
+    ""
+   ],
+   [
+    "Restless",
+    "Dislikes feeling boxed in",
+    ""
+   ]
+  ]
+ }
+]
