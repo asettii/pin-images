@@ -1,0 +1,1624 @@
+[
+ {
+  "format": "table",
+  "kicker": "Zodiac elements",
+  "headline": "Zodiac\nElements",
+  "sub": "Four elements, three modalities",
+  "colA": "GROUP",
+  "colB": "SIGNS",
+  "rows": [
+   [
+    "Fire",
+    "Aries, Leo, Sagittarius"
+   ],
+   [
+    "Earth",
+    "Taurus, Virgo, Capricorn"
+   ],
+   [
+    "Air",
+    "Gemini, Libra, Aquarius"
+   ],
+   [
+    "Water",
+    "Cancer, Scorpio, Pisces"
+   ],
+   [
+    "Cardinal",
+    "Aries, Cancer, Libra, Capricorn"
+   ],
+   [
+    "Fixed",
+    "Taurus, Leo, Scorpio, Aquarius"
+   ],
+   [
+    "Mutable",
+    "Gemini, Virgo, Sagittarius, Pisces"
+   ]
+  ],
+  "note": "Each sign has one element and one modality.",
+  "file": "ma-w7-01.png"
+ },
+ {
+  "format": "card",
+  "kicker": "Tarot card meanings",
+  "numeral": "XVII",
+  "arcana": "MAJOR ARCANA · CARD XVII",
+  "name": "The Star",
+  "sub": "Tarot card meaning",
+  "desc": "A woman kneels by a pool, pouring water onto land and into the pool, beneath a great star and seven smaller ones.",
+  "upright": [
+   "Hope",
+   "Renewal",
+   "Inspiration",
+   "Calm"
+  ],
+  "reversed": [
+   "Doubt",
+   "Discouragement",
+   "Disconnection",
+   "Lost faith"
+  ],
+  "rows": [
+   [
+    "In love",
+    "Gentle trust and healing"
+   ],
+   [
+    "In career",
+    "Renewed sense of purpose"
+   ],
+   [
+    "As advice",
+    "Rest, breathe and keep hope"
+   ],
+   [
+    "Yes or no",
+    "Yes, leaning hopeful"
+   ]
+  ],
+  "note": "Rider-Waite-Smith deck · Major Arcana in order, one card at a time",
+  "file": "ma-w7-02.png"
+ },
+ {
+  "format": "iconlist",
+  "kicker": "Sagittarius season",
+  "headline": "Sagittarius\nSeason",
+  "sub": "Six themes to reflect on",
+  "rows": [
+   [
+    "Adventure",
+    "Say yes to something new",
+    ""
+   ],
+   [
+    "Honesty",
+    "Speak plainly and kindly",
+    ""
+   ],
+   [
+    "Learning",
+    "Study what excites you",
+    ""
+   ],
+   [
+    "Optimism",
+    "Look for the open door",
+    ""
+   ],
+   [
+    "Freedom",
+    "Make room to breathe",
+    ""
+   ],
+   [
+    "Big picture",
+    "Zoom out on your goals",
+    ""
+   ]
+  ],
+  "file": "ma-w7-03.png"
+ },
+ {
+  "format": "spread",
+  "kicker": "Healing tarot spread",
+  "headline": "Healing\nTarot Spread",
+  "sub": "5 cards for gentle self-care",
+  "cards": [
+   [
+    "I",
+    "Wound",
+    "What needs care?"
+   ],
+   [
+    "II",
+    "Root",
+    "What shaped it?"
+   ],
+   [
+    "III",
+    "Need",
+    "What do I need now?"
+   ],
+   [
+    "IV",
+    "Support",
+    "What helps me heal?"
+   ],
+   [
+    "V",
+    "Step",
+    "What is one kind step?"
+   ]
+  ],
+  "steps": [
+   "Take a slow breath as you shuffle.",
+   "Lay five cards in a row.",
+   "Read each card as a gentle prompt."
+  ],
+  "file": "ma-w7-04.png"
+ },
+ {
+  "format": "glossary",
+  "kicker": "Birth chart glossary",
+  "headline": "Birth Chart\nPlacements",
+  "sub": "16 points to look for",
+  "terms": [
+   [
+    "Sun sign",
+    "your core identity"
+   ],
+   [
+    "Moon sign",
+    "your emotional style"
+   ],
+   [
+    "Rising sign",
+    "how you meet the world"
+   ],
+   [
+    "Mercury",
+    "how you think and talk"
+   ],
+   [
+    "Venus",
+    "how you love and value"
+   ],
+   [
+    "Mars",
+    "how you act and push"
+   ],
+   [
+    "Jupiter",
+    "growth and optimism"
+   ],
+   [
+    "Saturn",
+    "structure and lessons"
+   ],
+   [
+    "Uranus",
+    "change and originality"
+   ],
+   [
+    "Neptune",
+    "dreams and intuition"
+   ],
+   [
+    "Pluto",
+    "deep transformation"
+   ],
+   [
+    "Houses",
+    "12 areas of life"
+   ],
+   [
+    "Aspects",
+    "angles between planets"
+   ],
+   [
+    "North Node",
+    "a direction of growth"
+   ],
+   [
+    "Midheaven",
+    "career and public image"
+   ],
+   [
+    "Chiron",
+    "an area of tender healing"
+   ]
+  ],
+  "file": "ma-w7-05.png"
+ },
+ {
+  "format": "iconlist",
+  "kicker": "New moon ritual",
+  "headline": "New Moon\nRitual",
+  "sub": "Six steps to set an intention",
+  "rows": [
+   [
+    "Clear your space",
+    "Tidy one small corner",
+    ""
+   ],
+   [
+    "Breathe",
+    "Take five slow breaths",
+    ""
+   ],
+   [
+    "Reflect",
+    "Ask what you want to begin",
+    ""
+   ],
+   [
+    "Write",
+    "Jot three intentions, present tense",
+    ""
+   ],
+   [
+    "Choose",
+    "Pick one to start this week",
+    ""
+   ],
+   [
+    "Close",
+    "Thank the moment, blow out the flame",
+    ""
+   ]
+  ],
+  "file": "ma-w7-06.png"
+ },
+ {
+  "format": "table",
+  "kicker": "Rising sign meaning",
+  "headline": "Rising Sign\nMeaning",
+  "sub": "The first impression of each ascendant",
+  "colA": "RISING SIGN",
+  "colB": "FIRST IMPRESSION",
+  "rows": [
+   [
+    "Aries",
+    "Bold, direct, quick to act"
+   ],
+   [
+    "Taurus",
+    "Calm, steady, grounded"
+   ],
+   [
+    "Gemini",
+    "Curious, chatty, quick-witted"
+   ],
+   [
+    "Cancer",
+    "Warm, protective, sensitive"
+   ],
+   [
+    "Leo",
+    "Confident, warm, expressive"
+   ],
+   [
+    "Virgo",
+    "Modest, observant, tidy"
+   ],
+   [
+    "Libra",
+    "Charming, polite, balanced"
+   ],
+   [
+    "Scorpio",
+    "Intense, magnetic, private"
+   ],
+   [
+    "Sagittarius",
+    "Friendly, upbeat, adventurous"
+   ],
+   [
+    "Capricorn",
+    "Poised, serious, composed"
+   ],
+   [
+    "Aquarius",
+    "Cool, original, independent"
+   ],
+   [
+    "Pisces",
+    "Dreamy, gentle, soft-spoken"
+   ]
+  ],
+  "note": "Common themes, not rules.",
+  "file": "ma-w7-07.png"
+ },
+ {
+  "format": "card",
+  "kicker": "Tarot card meanings",
+  "numeral": "XVIII",
+  "arcana": "MAJOR ARCANA · CARD XVIII",
+  "name": "The Moon",
+  "sub": "Tarot card meaning",
+  "desc": "A dog and a wolf howl at the moon above a crayfish in a pool, with two towers and a winding path beyond.",
+  "upright": [
+   "Intuition",
+   "Dreams",
+   "Mystery",
+   "Subconscious"
+  ],
+  "reversed": [
+   "Confusion",
+   "Fear",
+   "Illusion",
+   "Clearing fog"
+  ],
+  "rows": [
+   [
+    "In love",
+    "Mixed signals; go slowly"
+   ],
+   [
+    "In career",
+    "Details unclear; ask questions"
+   ],
+   [
+    "As advice",
+    "Trust intuition, check facts"
+   ],
+   [
+    "Yes or no",
+    "Unclear"
+   ]
+  ],
+  "note": "Rider-Waite-Smith deck · Major Arcana in order, one card at a time",
+  "file": "ma-w7-08.png"
+ },
+ {
+  "format": "glossary",
+  "kicker": "Tarot spreads glossary",
+  "headline": "Spread\nPositions",
+  "sub": "16 position names explained",
+  "terms": [
+   [
+    "Past",
+    "what shaped this"
+   ],
+   [
+    "Present",
+    "where you are now"
+   ],
+   [
+    "Future",
+    "where it may lead"
+   ],
+   [
+    "Situation",
+    "the heart of the matter"
+   ],
+   [
+    "Challenge",
+    "what stands in the way"
+   ],
+   [
+    "Advice",
+    "a way forward"
+   ],
+   [
+    "Outcome",
+    "where this could go"
+   ],
+   [
+    "Foundation",
+    "the root of the question"
+   ],
+   [
+    "Strength",
+    "what you can lean on"
+   ],
+   [
+    "Hidden",
+    "what you may not see"
+   ],
+   [
+    "Hopes",
+    "what you want"
+   ],
+   [
+    "Fears",
+    "what you worry about"
+   ],
+   [
+    "Self",
+    "how you show up"
+   ],
+   [
+    "Other",
+    "the other person's side"
+   ],
+   [
+    "Action",
+    "one small next step"
+   ],
+   [
+    "Lesson",
+    "what to learn"
+   ]
+  ],
+  "file": "ma-w7-09.png"
+ },
+ {
+  "format": "spread",
+  "kicker": "Gratitude tarot spread",
+  "headline": "Gratitude\nTarot Spread",
+  "sub": "3 cards for thankfulness",
+  "cards": [
+   [
+    "I",
+    "Gift",
+    "What am I thankful for?"
+   ],
+   [
+    "II",
+    "Lesson",
+    "What lesson helped?"
+   ],
+   [
+    "III",
+    "Share",
+    "Who can I thank?"
+   ]
+  ],
+  "steps": [
+   "Shuffle while you name one good thing.",
+   "Lay three cards left to right.",
+   "Write one thank-you note."
+  ],
+  "file": "ma-w7-10.png"
+ },
+ {
+  "format": "card",
+  "kicker": "Tarot card meanings",
+  "numeral": "XIX",
+  "arcana": "MAJOR ARCANA · CARD XIX",
+  "name": "The Sun",
+  "sub": "Tarot card meaning",
+  "desc": "A joyful child rides a white horse beneath a bright sun, with sunflowers rising behind a garden wall.",
+  "upright": [
+   "Joy",
+   "Vitality",
+   "Success",
+   "Warmth"
+  ],
+  "reversed": [
+   "Dimmed joy",
+   "Delayed success",
+   "Self-doubt",
+   "Overconfidence"
+  ],
+  "rows": [
+   [
+    "In love",
+    "Warmth and open affection"
+   ],
+   [
+    "In career",
+    "Recognition for your effort"
+   ],
+   [
+    "As advice",
+    "Let yourself enjoy it"
+   ],
+   [
+    "Yes or no",
+    "Yes"
+   ]
+  ],
+  "note": "Rider-Waite-Smith deck · Major Arcana in order, one card at a time",
+  "file": "ma-w7-11.png"
+ },
+ {
+  "format": "iconlist",
+  "kicker": "Fire signs",
+  "headline": "Fire Signs\nTraits",
+  "sub": "Aries, Leo and Sagittarius",
+  "rows": [
+   [
+    "Aries",
+    "Cardinal: bold, quick to start",
+    ""
+   ],
+   [
+    "Leo",
+    "Fixed: warm, proud, generous",
+    ""
+   ],
+   [
+    "Sagittarius",
+    "Mutable: free-spirited, honest",
+    ""
+   ],
+   [
+    "Shared trait",
+    "Passion and enthusiasm",
+    ""
+   ],
+   [
+    "Common strength",
+    "Courage to begin",
+    ""
+   ],
+   [
+    "Growth edge",
+    "Patience and listening",
+    ""
+   ]
+  ],
+  "file": "ma-w7-12.png"
+ },
+ {
+  "format": "table",
+  "kicker": "Sagittarius compatibility",
+  "headline": "Sagittarius\nCompatibility",
+  "sub": "How the archer meets each sign",
+  "colA": "SIGN",
+  "colB": "WITH SAGITTARIUS",
+  "rows": [
+   [
+    "Aries",
+    "Fire + fire: fast and lively"
+   ],
+   [
+    "Taurus",
+    "Earth: pace and tastes differ"
+   ],
+   [
+    "Gemini",
+    "Opposite sign: curious balance"
+   ],
+   [
+    "Cancer",
+    "Water: feelings meet freedom"
+   ],
+   [
+    "Leo",
+    "Fire: warm and adventurous"
+   ],
+   [
+    "Virgo",
+    "Earth: details vs big picture"
+   ],
+   [
+    "Libra",
+    "Air: social and idea-filled"
+   ],
+   [
+    "Scorpio",
+    "Water: depth meets openness"
+   ],
+   [
+    "Sagittarius",
+    "Same sign: a shared mirror"
+   ],
+   [
+    "Capricorn",
+    "Earth: goals meet play"
+   ],
+   [
+    "Aquarius",
+    "Air: independent and curious"
+   ],
+   [
+    "Pisces",
+    "Water: dreamers, different aims"
+   ]
+  ],
+  "note": "Compatibility is a fun lens, not a rule.",
+  "file": "ma-w7-13.png"
+ },
+ {
+  "format": "spread",
+  "kicker": "Decision tarot spread",
+  "headline": "Decision\nTarot Spread",
+  "sub": "4 cards for a clear choice",
+  "cards": [
+   [
+    "I",
+    "Choice",
+    "What is the decision?"
+   ],
+   [
+    "II",
+    "First",
+    "What does option A hold?"
+   ],
+   [
+    "III",
+    "Second",
+    "What does option B hold?"
+   ],
+   [
+    "IV",
+    "Values",
+    "What matters most?"
+   ]
+  ],
+  "steps": [
+   "Say your choice out loud as you shuffle.",
+   "Lay cards I to IV left to right.",
+   "Let card IV break the tie, then reflect."
+  ],
+  "file": "ma-w7-14.png"
+ },
+ {
+  "format": "iconlist",
+  "kicker": "Moon phases journal",
+  "headline": "Moon Phase\nJournal",
+  "sub": "One prompt for each phase",
+  "rows": [
+   [
+    "New Moon",
+    "What do I want to begin?",
+    "new"
+   ],
+   [
+    "Waxing Crescent",
+    "What small step can I take?",
+    "waxing-crescent"
+   ],
+   [
+    "First Quarter",
+    "What needs action now?",
+    "first-quarter"
+   ],
+   [
+    "Waxing Gibbous",
+    "What can I refine?",
+    "waxing-gibbous"
+   ],
+   [
+    "Full Moon",
+    "What is coming to light?",
+    "full"
+   ],
+   [
+    "Waning Gibbous",
+    "What can I share or teach?",
+    "waning-gibbous"
+   ],
+   [
+    "Last Quarter",
+    "What can I let go of?",
+    "last-quarter"
+   ],
+   [
+    "Waning Crescent",
+    "How can I rest?",
+    "waning-crescent"
+   ]
+  ],
+  "file": "ma-w7-15.png"
+ },
+ {
+  "format": "table",
+  "kicker": "Tarot court cards",
+  "headline": "Court Cards\nand Suits",
+  "sub": "Pages, Knights, Queens and Kings",
+  "colA": "CARD / SUIT",
+  "colB": "MEANING",
+  "rows": [
+   [
+    "Page",
+    "Curious student; a new message"
+   ],
+   [
+    "Knight",
+    "Action in motion; commitment"
+   ],
+   [
+    "Queen",
+    "Mature, inward mastery"
+   ],
+   [
+    "King",
+    "Outward mastery and leadership"
+   ],
+   [
+    "Wands",
+    "Fire: passion, drive, creativity"
+   ],
+   [
+    "Cups",
+    "Water: feelings, love, intuition"
+   ],
+   [
+    "Swords",
+    "Air: thoughts, truth, conflict"
+   ],
+   [
+    "Pentacles",
+    "Earth: work, home, resources"
+   ]
+  ],
+  "note": "Read court cards as people or as traits.",
+  "file": "ma-w7-16.png"
+ },
+ {
+  "format": "spread",
+  "kicker": "Weekly tarot spread",
+  "headline": "Weekly\nTarot Spread",
+  "sub": "5 cards to set up your week",
+  "cards": [
+   [
+    "I",
+    "Begin",
+    "How do I begin?"
+   ],
+   [
+    "II",
+    "Focus",
+    "What needs focus?"
+   ],
+   [
+    "III",
+    "Shift",
+    "What may change?"
+   ],
+   [
+    "IV",
+    "Rest",
+    "Where can I rest?"
+   ],
+   [
+    "V",
+    "Finish",
+    "How do I finish well?"
+   ]
+  ],
+  "steps": [
+   "Shuffle while you picture your week.",
+   "Lay five cards in a row.",
+   "Jot one note per card."
+  ],
+  "file": "ma-w7-17.png"
+ },
+ {
+  "format": "card",
+  "kicker": "Tarot card meanings",
+  "numeral": "XX",
+  "arcana": "MAJOR ARCANA · CARD XX",
+  "name": "Judgement",
+  "sub": "Tarot card meaning",
+  "desc": "An angel blows a trumpet over figures rising from coffins with arms raised, with mountains behind.",
+  "upright": [
+   "Awakening",
+   "Reflection",
+   "Calling",
+   "Forgiveness"
+  ],
+  "reversed": [
+   "Self-doubt",
+   "Avoidance",
+   "Self-criticism",
+   "Ignored calling"
+  ],
+  "rows": [
+   [
+    "In love",
+    "Honest talk; a fresh start"
+   ],
+   [
+    "In career",
+    "Answer a growing calling"
+   ],
+   [
+    "As advice",
+    "Review, forgive, move on"
+   ],
+   [
+    "Yes or no",
+    "Yes, after reflection"
+   ]
+  ],
+  "note": "Rider-Waite-Smith deck · Major Arcana in order, one card at a time",
+  "file": "ma-w7-18.png"
+ },
+ {
+  "format": "glossary",
+  "kicker": "Retrograde glossary",
+  "headline": "Retrograde\nTerms",
+  "sub": "16 words explained simply",
+  "terms": [
+   [
+    "Retrograde",
+    "a planet seems to go back"
+   ],
+   [
+    "Direct",
+    "forward motion resumes"
+   ],
+   [
+    "Station",
+    "a planet seems to pause"
+   ],
+   [
+    "Shadow",
+    "the zone around a retrograde"
+   ],
+   [
+    "Pre-shadow",
+    "the warm-up period"
+   ],
+   [
+    "Post-shadow",
+    "the cool-down period"
+   ],
+   [
+    "Apparent",
+    "how motion looks from Earth"
+   ],
+   [
+    "Orbit",
+    "a planet's path"
+   ],
+   [
+    "Inner planets",
+    "Mercury to Mars"
+   ],
+   [
+    "Outer planets",
+    "Jupiter and beyond"
+   ],
+   [
+    "Transit",
+    "a planet's current path"
+   ],
+   [
+    "Natal",
+    "your birth chart's sky"
+   ],
+   [
+    "Cycle",
+    "a repeating pattern"
+   ],
+   [
+    "Review",
+    "slow down and revisit"
+   ],
+   [
+    "Mercury",
+    "retrograde 3 to 4 times a year"
+   ],
+   [
+    "Venus",
+    "about every 18 months"
+   ]
+  ],
+  "file": "ma-w7-19.png"
+ },
+ {
+  "format": "iconlist",
+  "kicker": "Water signs",
+  "headline": "Water Signs\nTraits",
+  "sub": "Cancer, Scorpio and Pisces",
+  "rows": [
+   [
+    "Cancer",
+    "Cardinal: caring and protective",
+    ""
+   ],
+   [
+    "Scorpio",
+    "Fixed: intense and loyal",
+    ""
+   ],
+   [
+    "Pisces",
+    "Mutable: dreamy and empathic",
+    ""
+   ],
+   [
+    "Shared trait",
+    "Feeling and intuition",
+    ""
+   ],
+   [
+    "Common strength",
+    "Empathy",
+    ""
+   ],
+   [
+    "Growth edge",
+    "Healthy boundaries",
+    ""
+   ]
+  ],
+  "file": "ma-w7-20.png"
+ },
+ {
+  "format": "iconlist",
+  "kicker": "Earth signs",
+  "headline": "Earth Signs\nTraits",
+  "sub": "Taurus, Virgo and Capricorn",
+  "rows": [
+   [
+    "Taurus",
+    "Fixed: steady and sensual",
+    ""
+   ],
+   [
+    "Virgo",
+    "Mutable: careful and helpful",
+    ""
+   ],
+   [
+    "Capricorn",
+    "Cardinal: driven, disciplined",
+    ""
+   ],
+   [
+    "Shared trait",
+    "Practical and grounded",
+    ""
+   ],
+   [
+    "Common strength",
+    "Reliability",
+    ""
+   ],
+   [
+    "Growth edge",
+    "Make room for play",
+    ""
+   ]
+  ],
+  "file": "ma-w7-21.png"
+ },
+ {
+  "format": "card",
+  "kicker": "Tarot card meanings",
+  "numeral": "XXI",
+  "arcana": "MAJOR ARCANA · CARD XXI",
+  "name": "The World",
+  "sub": "Tarot card meaning",
+  "desc": "A dancer wrapped in a purple cloth floats inside a laurel wreath, with four figures in the corners.",
+  "upright": [
+   "Completion",
+   "Wholeness",
+   "Achievement",
+   "Celebration"
+  ],
+  "reversed": [
+   "Loose ends",
+   "Delay",
+   "Almost there",
+   "Shortcuts"
+  ],
+  "rows": [
+   [
+    "In love",
+    "A bond feels whole"
+   ],
+   [
+    "In career",
+    "A project reaches its finish"
+   ],
+   [
+    "As advice",
+    "Celebrate before the next cycle"
+   ],
+   [
+    "Yes or no",
+    "Yes"
+   ]
+  ],
+  "note": "Rider-Waite-Smith deck · Major Arcana in order, one card at a time",
+  "file": "ma-w7-22.png"
+ },
+ {
+  "format": "table",
+  "kicker": "Outer planets",
+  "headline": "Outer\nPlanets",
+  "sub": "Slow planets and two key points",
+  "colA": "PLANET / POINT",
+  "colB": "THEME",
+  "rows": [
+   [
+    "Jupiter",
+    "Growth, luck and optimism"
+   ],
+   [
+    "Saturn",
+    "Structure, limits and lessons"
+   ],
+   [
+    "Uranus",
+    "Change, freedom, surprises"
+   ],
+   [
+    "Neptune",
+    "Dreams, intuition, illusion"
+   ],
+   [
+    "Pluto",
+    "Deep transformation"
+   ],
+   [
+    "Chiron",
+    "The wounded healer"
+   ],
+   [
+    "North Node",
+    "Direction of growth"
+   ]
+  ],
+  "note": "Slower planets shape long-term themes.",
+  "file": "ma-w7-23.png"
+ },
+ {
+  "format": "spread",
+  "kicker": "Friendship tarot spread",
+  "headline": "Friendship\nTarot Spread",
+  "sub": "3 cards for a close bond",
+  "cards": [
+   [
+    "I",
+    "You",
+    "What do I bring?"
+   ],
+   [
+    "II",
+    "Them",
+    "What do they bring?"
+   ],
+   [
+    "III",
+    "Grow",
+    "How can we grow?"
+   ]
+  ],
+  "steps": [
+   "Picture your friend as you shuffle.",
+   "Lay three cards left to right.",
+   "Reflect, then reach out kindly."
+  ],
+  "file": "ma-w7-24.png"
+ },
+ {
+  "format": "glossary",
+  "kicker": "Tarot symbols glossary",
+  "headline": "Tarot\nSymbols",
+  "sub": "16 Rider-Waite images decoded",
+  "terms": [
+   [
+    "Rose",
+    "desire and passion"
+   ],
+   [
+    "Lily",
+    "purity and thought"
+   ],
+   [
+    "Infinity loop",
+    "endless energy"
+   ],
+   [
+    "Wand",
+    "will and action"
+   ],
+   [
+    "Cup",
+    "emotion and love"
+   ],
+   [
+    "Sword",
+    "mind and truth"
+   ],
+   [
+    "Pentacle",
+    "work and the earth"
+   ],
+   [
+    "Scales",
+    "balance and fairness"
+   ],
+   [
+    "Sun",
+    "joy and vitality"
+   ],
+   [
+    "Moon",
+    "intuition and dreams"
+   ],
+   [
+    "Pillars",
+    "duality and balance"
+   ],
+   [
+    "Dog",
+    "loyalty and instinct"
+   ],
+   [
+    "Wolf",
+    "wild instinct"
+   ],
+   [
+    "Snake",
+    "wisdom and change"
+   ],
+   [
+    "Mountain",
+    "challenge and goals"
+   ],
+   [
+    "Water",
+    "emotion and flow"
+   ]
+  ],
+  "file": "ma-w7-25.png"
+ },
+ {
+  "format": "spread",
+  "kicker": "Winter tarot spread",
+  "headline": "Winter\nTarot Spread",
+  "sub": "4 cards for a quiet season",
+  "cards": [
+   [
+    "I",
+    "Rest",
+    "Where do I need rest?"
+   ],
+   [
+    "II",
+    "Release",
+    "What can I let go?"
+   ],
+   [
+    "III",
+    "Warmth",
+    "What brings me warmth?"
+   ],
+   [
+    "IV",
+    "Seed",
+    "What is quietly growing?"
+   ]
+  ],
+  "steps": [
+   "Light a candle and shuffle slowly.",
+   "Lay four cards left to right.",
+   "Write one cozy intention."
+  ],
+  "file": "ma-w7-26.png"
+ },
+ {
+  "format": "table",
+  "kicker": "Zodiac signs strengths",
+  "headline": "Zodiac Signs\nStrengths",
+  "sub": "A gift and a growth edge for each",
+  "colA": "SIGN",
+  "colB": "STRENGTH · GROWTH EDGE",
+  "rows": [
+   [
+    "Aries",
+    "Courage · patience"
+   ],
+   [
+    "Taurus",
+    "Loyalty · flexibility"
+   ],
+   [
+    "Gemini",
+    "Curiosity · follow-through"
+   ],
+   [
+    "Cancer",
+    "Care · letting go"
+   ],
+   [
+    "Leo",
+    "Generosity · humility"
+   ],
+   [
+    "Virgo",
+    "Helpfulness · self-kindness"
+   ],
+   [
+    "Libra",
+    "Fairness · decisiveness"
+   ],
+   [
+    "Scorpio",
+    "Depth · trust"
+   ],
+   [
+    "Sagittarius",
+    "Optimism · commitment"
+   ],
+   [
+    "Capricorn",
+    "Discipline · rest"
+   ],
+   [
+    "Aquarius",
+    "Originality · closeness"
+   ],
+   [
+    "Pisces",
+    "Empathy · boundaries"
+   ]
+  ],
+  "note": "Common themes, not rules.",
+  "file": "ma-w7-27.png"
+ },
+ {
+  "format": "iconlist",
+  "kicker": "Air signs",
+  "headline": "Air Signs\nTraits",
+  "sub": "Gemini, Libra and Aquarius",
+  "rows": [
+   [
+    "Gemini",
+    "Mutable: curious and chatty",
+    ""
+   ],
+   [
+    "Libra",
+    "Cardinal: fair and social",
+    ""
+   ],
+   [
+    "Aquarius",
+    "Fixed: original, independent",
+    ""
+   ],
+   [
+    "Shared trait",
+    "Ideas and communication",
+    ""
+   ],
+   [
+    "Common strength",
+    "Open-minded thinking",
+    ""
+   ],
+   [
+    "Growth edge",
+    "Stay with feelings",
+    ""
+   ]
+  ],
+  "file": "ma-w7-28.png"
+ },
+ {
+  "format": "card",
+  "kicker": "Tarot card meanings",
+  "numeral": "0",
+  "arcana": "MAJOR ARCANA · CARD 0",
+  "name": "The Fool",
+  "sub": "Tarot card meaning",
+  "desc": "A young traveler steps toward a cliff edge with a small white dog, a white rose and a bundle on a stick.",
+  "upright": [
+   "New beginnings",
+   "Trust",
+   "Spontaneity",
+   "Open mind"
+  ],
+  "reversed": [
+   "Recklessness",
+   "Hesitation",
+   "Naivety",
+   "Fear of leaping"
+  ],
+  "rows": [
+   [
+    "In love",
+    "Open heart, fresh start"
+   ],
+   [
+    "In career",
+    "Try a new path"
+   ],
+   [
+    "As advice",
+    "Take a thoughtful first step"
+   ],
+   [
+    "Yes or no",
+    "Yes, with care"
+   ]
+  ],
+  "note": "Rider-Waite-Smith deck · Major Arcana in order, one card at a time",
+  "file": "ma-w7-29.png"
+ },
+ {
+  "format": "glossary",
+  "kicker": "Synastry glossary",
+  "headline": "Synastry\nTerms",
+  "sub": "16 words for chart comparison",
+  "terms": [
+   [
+    "Synastry",
+    "comparing two charts"
+   ],
+   [
+    "Composite",
+    "one chart for the pair"
+   ],
+   [
+    "Overlay",
+    "one chart's planets in another"
+   ],
+   [
+    "Sun match",
+    "shared basic outlook"
+   ],
+   [
+    "Moon match",
+    "similar emotional rhythm"
+   ],
+   [
+    "Venus",
+    "how you show affection"
+   ],
+   [
+    "Mars",
+    "how you act and argue"
+   ],
+   [
+    "Mercury",
+    "how you talk and listen"
+   ],
+   [
+    "Saturn",
+    "commitment and lessons"
+   ],
+   [
+    "Node link",
+    "a pull toward growth"
+   ],
+   [
+    "Conjunction",
+    "planets sit together"
+   ],
+   [
+    "Trine",
+    "easy, flowing energy"
+   ],
+   [
+    "Sextile",
+    "a supportive link"
+   ],
+   [
+    "Square",
+    "friction that sparks growth"
+   ],
+   [
+    "Opposition",
+    "a pull between two sides"
+   ],
+   [
+    "Rising",
+    "first impressions of you"
+   ]
+  ],
+  "file": "ma-w7-30.png"
+ },
+ {
+  "format": "card",
+  "kicker": "Tarot card meanings",
+  "numeral": "I",
+  "arcana": "MAJOR ARCANA · CARD I",
+  "name": "The Magician",
+  "sub": "Tarot card meaning",
+  "desc": "A figure raises a wand to the sky and points to the earth, before a table with a cup, sword, wand and pentacle.",
+  "upright": [
+   "Skill",
+   "Focus",
+   "Resourcefulness",
+   "Action"
+  ],
+  "reversed": [
+   "Scattered energy",
+   "Manipulation",
+   "Untapped talent",
+   "Self-doubt"
+  ],
+  "rows": [
+   [
+    "In love",
+    "Clear, honest talk"
+   ],
+   [
+    "In career",
+    "Use your skills to begin"
+   ],
+   [
+    "As advice",
+    "Focus your tools on one goal"
+   ],
+   [
+    "Yes or no",
+    "Yes, if you act"
+   ]
+  ],
+  "note": "Rider-Waite-Smith deck · Major Arcana in order, one card at a time",
+  "file": "ma-w7-31.png"
+ },
+ {
+  "format": "spread",
+  "kicker": "Astrology tarot spread",
+  "headline": "Astrology\nTarot Spread",
+  "sub": "3 cards for your big three",
+  "cards": [
+   [
+    "I",
+    "Sun",
+    "What is my core?"
+   ],
+   [
+    "II",
+    "Moon",
+    "What do I feel?"
+   ],
+   [
+    "III",
+    "Rising",
+    "How do I show up?"
+   ]
+  ],
+  "steps": [
+   "Think of your big three as you shuffle.",
+   "Lay three cards left to right.",
+   "Journal how each echoes your sign."
+  ],
+  "file": "ma-w7-32.png"
+ },
+ {
+  "format": "iconlist",
+  "kicker": "Tarot journaling",
+  "headline": "Tarot Journal\nPrompts",
+  "sub": "8 steps for a daily card",
+  "rows": [
+   [
+    "Draw",
+    "Pull one card each morning",
+    ""
+   ],
+   [
+    "Name",
+    "Write the card's name and number",
+    ""
+   ],
+   [
+    "Notice",
+    "What do you see in the image?",
+    ""
+   ],
+   [
+    "Feel",
+    "Which emotion shows up first?",
+    ""
+   ],
+   [
+    "Connect",
+    "How does it echo your day?",
+    ""
+   ],
+   [
+    "Ask",
+    "What is this card asking of you?",
+    ""
+   ],
+   [
+    "Act",
+    "Choose one small action",
+    ""
+   ],
+   [
+    "Review",
+    "Revisit it at week's end",
+    ""
+   ]
+  ],
+  "file": "ma-w7-33.png"
+ },
+ {
+  "format": "table",
+  "kicker": "Zodiac sign mottos",
+  "headline": "Zodiac Sign\nMottos",
+  "sub": "A key phrase for each sign",
+  "colA": "SIGN",
+  "colB": "KEY PHRASE",
+  "rows": [
+   [
+    "Aries",
+    "I am"
+   ],
+   [
+    "Taurus",
+    "I have"
+   ],
+   [
+    "Gemini",
+    "I think"
+   ],
+   [
+    "Cancer",
+    "I feel"
+   ],
+   [
+    "Leo",
+    "I will"
+   ],
+   [
+    "Virgo",
+    "I analyze"
+   ],
+   [
+    "Libra",
+    "I balance"
+   ],
+   [
+    "Scorpio",
+    "I desire"
+   ],
+   [
+    "Sagittarius",
+    "I seek"
+   ],
+   [
+    "Capricorn",
+    "I use"
+   ],
+   [
+    "Aquarius",
+    "I know"
+   ],
+   [
+    "Pisces",
+    "I believe"
+   ]
+  ],
+  "note": "Classic phrases, shared as a memory aid.",
+  "file": "ma-w7-34.png"
+ },
+ {
+  "format": "card",
+  "kicker": "Tarot card meanings",
+  "numeral": "II",
+  "arcana": "MAJOR ARCANA · CARD II",
+  "name": "The High Priestess",
+  "sub": "Tarot card meaning",
+  "desc": "She sits between a black pillar and a white pillar, holding a scroll, with a crescent moon at her feet.",
+  "upright": [
+   "Intuition",
+   "Inner knowing",
+   "Mystery",
+   "Stillness"
+  ],
+  "reversed": [
+   "Ignoring your gut",
+   "Secrets",
+   "Disconnection",
+   "Overthinking"
+  ],
+  "rows": [
+   [
+    "In love",
+    "Unspoken feelings; let it unfold"
+   ],
+   [
+    "In career",
+    "Wait for more information"
+   ],
+   [
+    "As advice",
+    "Trust what you already know"
+   ],
+   [
+    "Yes or no",
+    "Not yet"
+   ]
+  ],
+  "note": "Rider-Waite-Smith deck · Major Arcana in order, one card at a time",
+  "file": "ma-w7-35.png"
+ }
+]
