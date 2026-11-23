@@ -1,5 +1,5 @@
 // Usage: node midnight-almanac-render.js spec.json outDir
-// formats: table, glossary, iconlist, spread, card  (see tools/example-spec-midnight-almanac.json)
+// formats: table, glossary, iconlist, spread, card, kit  (see tools/example-spec-midnight-almanac.json; kit pages: midnight-almanac/kit/)
 const { chromium } = require('playwright');
 const fs = require('fs'), path = require('path');
 const F = n => 'data:font/woff2;base64,' + fs.readFileSync(path.join(__dirname, 'node_modules/@fontsource', n)).toString('base64');
@@ -80,6 +80,15 @@ ${s.note ? `<div class=note style="bottom:128px">${s.note}</div>` : ''}${foot()}
 <div style="position:absolute;left:90px;right:90px;top:545px;height:292px;display:flex;gap:20px"><div style="flex:1;border:1.5px solid ${LINE};padding:20px 26px"><div class="cap gold" style="font-size:30px">Upright</div>${li(s.upright)}</div><div style="flex:1;border:1.5px solid ${LINE};padding:20px 26px"><div class="cap gold" style="font-size:30px">Reversed</div>${li(s.reversed)}</div></div>
 <div style="position:absolute;left:90px;right:90px;top:860px;bottom:200px;display:flex;flex-direction:column;border-top:1.5px solid ${LINE}">${rows}</div>
 <div class=note style="bottom:128px">${s.note}</div>${foot()}`;
+  }
+  if (s.format === 'kit') {
+    // free-kit pin: a real page of the Astrology Starter Kit (midnight-almanac/kit/<page>.png) + gold banner, to drive clicks to midnightalmanac.com
+    const img = n => 'data:image/png;base64,' + fs.readFileSync(path.join(__dirname, '..', 'midnight-almanac', 'kit', n + '.png')).toString('base64');
+    const back = s.back || (s.page === 'cover' ? 'birth-chart-cheat-sheet' : 'cover');
+    const pg = (n, x, rot, z) => `<img src="${img(n)}" style="position:absolute;left:${x}px;top:${s.sub ? 470 : 430}px;width:500px;height:647px;transform:rotate(${rot}deg);z-index:${z};border:2px solid ${GOLD};box-shadow:0 18px 40px rgba(0,0,0,.55)">`;
+    return `${head(s)}<h1 style="top:140px">${s.headline}</h1>${s.sub ? `<div class=sub style="top:360px;color:${GOLD}">${s.sub}</div>` : ''}
+${pg(back, 335, 5, 1)}${pg(s.page, 165, -3, 2)}
+<div style="position:absolute;left:90px;right:90px;top:1170px;height:150px;background:${GOLD};border-radius:10px;color:${NAVY};text-align:center;display:flex;flex-direction:column;justify-content:center;z-index:3"><div style="font-family:Cin;font-weight:700;font-size:40px">Get the free Astrology Starter Kit</div><div style="font-size:28px;font-weight:500;margin-top:8px;letter-spacing:1px">${s.banner || '6 printable pages · midnightalmanac.com'}</div></div>${foot()}`;
   }
   throw new Error('unknown format ' + s.format);
 }
